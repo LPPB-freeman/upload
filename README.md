@@ -1,2 +1,2 @@
-# upload
-上传test
+# upload   ——>项目库名
+上传test目录
